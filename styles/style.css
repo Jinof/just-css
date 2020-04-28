@@ -1,0 +1,19 @@
+body {
+    background-color: seashell;
+  }
+
+  h1 {
+    color: rebeccapurple;
+  }
+
+  .header {
+    flex: 0px;
+  }
+
+  .header-left {
+    margin-left: initial;
+  }
+
+  .header-right {
+    margin-right: 1px;
+  }
